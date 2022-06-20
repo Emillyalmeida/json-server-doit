@@ -71,6 +71,30 @@
       "password": "$2a$10$7GYxeNtW6lAc3CWegy33F.an6d1qoq20Db2IycDhhpyUvEbY4X0gG",
       "name": "Gabriel",
       "id": 12
+    },
+    {
+      "email": "emily@gmail.com",
+      "password": "$2a$10$r/kuwryfDCrHI4dXOge4t.o7hbvJMpR2mUm1q4SwiXNJdBwBBddo6",
+      "name": "Emilly de Almeida Nascimento",
+      "id": 13
+    },
+    {
+      "email": "emillyalmeidan@outlook.com",
+      "password": "$2a$10$nW5GkdtCxThdFXdT6csHM.CTsDM2wvm2hZJ5SJ9qHbXV5Gf4s7cxi",
+      "name": "Emilly de Almeida Nascimento",
+      "id": 14
+    },
+    {
+      "email": "ema@gmail.com",
+      "password": "$2a$10$HXS0xVdwaVd5U4VfSs8H5uxpDyjqu4MxEqCsT629Cq1TL3Xoob0wi",
+      "name": "Emilly Almeida",
+      "id": 15
+    },
+    {
+      "email": "bichano@gmail.com",
+      "password": "$2a$10$L6k/sqSk2R.rr.0FP8Ilm.yA.PzFjJlUlFZWY14XXvW1ig2Td5VLi",
+      "name": "Bichano",
+      "id": 16
     }
   ],
   "tasks": [
@@ -80,6 +104,22 @@
       "userId": 12,
       "completed": false,
       "id": 2
+    },
+    {
+      "title": "new data",
+      "description": "huy",
+      "completed": true,
+      "userId": 15,
+      "date": "01/06/2022",
+      "id": 3
+    },
+    {
+      "title": "fome",
+      "description": "uhdwu",
+      "completed": false,
+      "userId": 15,
+      "date": "01/06/2022",
+      "id": 4
     }
   ],
   "products": [],
